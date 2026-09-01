@@ -1,0 +1,4 @@
+Jane Doe
+Senior Python Engineer
+Built APIs with FastAPI, used pandas for data cleaning, and deployed services with Docker.
+Led a team of five engineers and delivered analytics features for enterprise clients.
